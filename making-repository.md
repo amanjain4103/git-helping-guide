@@ -22,16 +22,16 @@
 1. Again back to your computer's terminal , navigate to project_name directory
 1. now run commands as 
 	1. **git remote add origin <url_of_repository_created_on_git_hub>**
-	1. **git add . **
-	1. **git commit -m "any message you want to say e.g. adding new repository" **
+	1. **git add .**
+	1. **git commit -m "any message you want to say e.g. adding new repository"**
 	1. **git push -u origin master**
 	1. refresh git hub your added files must be there
 
 #### Note. If error comes then run this commands : 
 1. now run commands as 
 	1. **git remote add origin <url_of_repository_created_on_git_hub>**
-	1. **git add . **
+	1. **git add .**
 	1. **git pull origin master**
-	1. **git commit -m "any message you want to say e.g. adding new repository" **
+	1. **git commit -m "any message you want to say e.g. adding new repository"**
 	1. **git push -u origin master**
 	1. refresh git hub your added files must be there
