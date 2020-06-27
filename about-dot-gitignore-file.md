@@ -8,8 +8,8 @@
 ### How to create a .gitignore file to ignore files and directories
 1. touch .gitignore
 1. vim .gitignore => write inside this file 
-    eg. *.txt
-        /new_folder/*
+    eg. ``` *.txt
+        /new_folder/* ```
 1. git add .
 1. git commit -m "adding .gitignore file"
 1. git push 
